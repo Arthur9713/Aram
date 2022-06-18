@@ -1,0 +1,135 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(4, 60, 82);
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#logo-img {
+    width: 100%;
+    height: 100%;
+}
+
+#logo-img img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 15% 85%;
+}
+
+.headline {
+    font-family: 'DM Serif Display', serif;
+    color: rgb(218, 144, 32);
+    font-size: 40px;
+
+}
+
+.text-aram {
+    color: rgb(216, 167, 93);
+    font-size: 35px;
+
+}
+
+
+
+.maintabele {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.icon {
+    width: 5%;
+    padding-left: 20%;
+}
+
+.linkchap {
+    padding-left: 50px;
+    color: gold;
+}
+
+
+
+.nawbar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+
+}
+
+.linksoben {
+    padding-right: 50px;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 16px;
+    font-weight: 600;
+    font-weight: bold;
+}
+
+.linksstyle {
+    color: rgb(190, 115, 22);
+    margin-left: 16px;
+}
+
+.text-champion {
+    color: rgb(160, 98, 5);
+    font-size: 23px;
+}
+
+.linkbox {
+    text-align: center;
+    padding: 8px;
+    
+}
+
+
+a:hover {
+    color: rgb(214, 133, 34);
+}
+
+.img-guide {
+    display: flex;
+    justify-content: center;
+
+}
+
+.logo-img {
+    display: flex;
+    margin: 0px;
+    margin-left: 43%;
+    padding-bottom: 16px;
+    
+    }
+
+    
+
+
+
+
+
+
+
+
+
+.A-container{
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
+    background-color: rgb(28, 60, 109);
+    padding: 6px;
+    padding-block-end: 20px;
+  }
+
+.B-container{
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
+    background-color: rgb(35, 58, 94);
+    padding: 6px;
+    padding-block-end: 20px;
+    }
